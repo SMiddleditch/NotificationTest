@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         notificationManagerCompat.notify(1, notification);
     }
 
-    public void datePush(View view){
+    public void dateCalPush(View view){
 
     }
 }
